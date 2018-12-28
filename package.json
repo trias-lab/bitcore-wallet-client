@@ -35,7 +35,8 @@
     "preconditions": "^2.2.1",
     "sjcl": "1.0.3",
     "superagent": "^3.4.1",
-    "bitcore-lib-eth": "git+https://git@github.com/trias-lab/bitcore-lib.git#add-eth"
+    "bitcore-lib-eth": "git+https://git@github.com/trias-lab/bitcore-lib.git#add-eth",
+    "bitcore-lib-tri": "git+https://git@github.com/trias-lab/bitcore-lib.git#add-tri"
   },
   "devDependencies": {
     "bitcore-wallet-service": "2.5.1",
